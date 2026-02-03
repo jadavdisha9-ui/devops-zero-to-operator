@@ -1,0 +1,4 @@
+Started a normal background process
+Killed it and it did not return
+Stopped and started a service
+Learned services are managed and persistent
